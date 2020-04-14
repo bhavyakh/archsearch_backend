@@ -1,2 +1,2 @@
 # archit_backend
-Backend of Archit app with nodejs
+Backend of ArchSearh app with nodejs
